@@ -1,2 +1,2 @@
 # Numpy
- Numpy Türkçe anlatım
+ Numpy Türkçe örnekler
